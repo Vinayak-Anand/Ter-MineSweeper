@@ -21,7 +21,6 @@ Minesweeper is a classic single-player puzzle game where the objective is to cle
 ## Requirements
 Ensure you have a C++ compiler installed on your system. Compile the code using the following commands:
 - g++ main.cpp
-Run the executable using
 - ./main
 ## Game Screenshots
 ![Game Starting Page](./Screenshots/1.png)   
