@@ -16,15 +16,11 @@ Avoid revealing a mine; otherwise, the game is over.
 Continue making moves until you clear all safe cells or hit a mine.
 Setup and Compilation
 Ensure you have a C++ compiler installed on your system. Compile the code using the following commands:
-
-bash
-Copy code
 g++ -o minesweeper minesweeper.cpp
-Run the compiled executable:
 
-bash
-Copy code
+Run the compiled executable:
 ./minesweeper
+
 Controls
 Use the arrow keys to navigate the cursor.
 Enter row and column coordinates to make a move.
@@ -34,8 +30,6 @@ Windows operating system (for console color manipulation)
 Customization
 You can customize the game grid size and number of mines by modifying the choosedifficulty function in the source code.
 
-cpp
-Copy code
 void choosedifficulty()
 {
     // Customize grid size and number of mines based on the chosen difficulty
