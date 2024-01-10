@@ -18,3 +18,4 @@ Minesweeper is a classic single-player puzzle game where the objective is to cle
 3. Enter your move by providing the row and column coordinates.
 4. Avoid revealing a mine; otherwise, the game is over.
 5. Continue making moves until you clear all safe cells or hit a mine.
+
