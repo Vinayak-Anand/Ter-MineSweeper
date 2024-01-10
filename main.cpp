@@ -4,6 +4,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <ctime>
+#include<stdlib.h>
 using namespace std;
 #define MAX_MINE 99
 #define MAX_SIDE 25
